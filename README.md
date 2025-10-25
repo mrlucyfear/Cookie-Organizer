@@ -55,11 +55,13 @@ If you wish to compile the script into a standalone `.exe` yourself, you will ne
 
 <img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/a5d7d67e-fb74-4fc4-b0b3-208a9218a974" />
 
+### AFTER RUNNING THE ORGANIZER.EXE FILE
 
 <img width="998" height="805" alt="image" src="https://github.com/user-attachments/assets/36cc19da-efb2-4214-b607-a3dff6a75f4e" />
 
+### FINAL RESULT
 
-<img width="998" height="805" alt="image" src="https://github.com/user-attachments/assets/50b61f37-c325-4a0a-9590-0d887e3f05e8" />
+<img width="989" height="686" alt="image" src="https://github.com/user-attachments/assets/b6ff5b6e-c126-4d48-8ab1-f59e558c4260" />
 
 
 

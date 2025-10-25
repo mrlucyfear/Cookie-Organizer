@@ -45,3 +45,23 @@ If you wish to compile the script into a standalone `.exe` yourself, you will ne
     pyinstaller --onefile organizer.py
     ```
 3.  The final `organizer.exe` will be located in the `dist` folder.
+
+
+### ORIGINAL VALID.TXT
+
+<img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/f0cb98df-0152-4730-a15b-aacf27d75e06" />
+
+
+<img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/a5d7d67e-fb74-4fc4-b0b3-208a9218a974" />
+
+
+
+<img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/69f8372d-26b6-4c52-9256-ea28eadf20e0" />
+
+
+<img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/30c9c047-9e80-409f-8f79-1527d0a0a682" />
+
+
+
+
+

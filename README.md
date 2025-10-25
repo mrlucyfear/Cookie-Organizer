@@ -49,19 +49,17 @@ If you wish to compile the script into a standalone `.exe` yourself, you will ne
 
 ### ORIGINAL VALID.TXT
 
-<img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/f0cb98df-0152-4730-a15b-aacf27d75e06" />
+
+<img width="1390" height="799" alt="image" src="https://github.com/user-attachments/assets/a7e28888-4b61-44b1-a320-68ef09e4158c" />
 
 
 <img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/a5d7d67e-fb74-4fc4-b0b3-208a9218a974" />
 
 
-
-<img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/69f8372d-26b6-4c52-9256-ea28eadf20e0" />
-
-
-<img width="982" height="596" alt="image" src="https://github.com/user-attachments/assets/30c9c047-9e80-409f-8f79-1527d0a0a682" />
+<img width="998" height="805" alt="image" src="https://github.com/user-attachments/assets/36cc19da-efb2-4214-b607-a3dff6a75f4e" />
 
 
+<img width="998" height="805" alt="image" src="https://github.com/user-attachments/assets/50b61f37-c325-4a0a-9590-0d887e3f05e8" />
 
 
 
